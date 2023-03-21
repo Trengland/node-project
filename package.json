@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "This is a user application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "personal",
+    "trending"
+  ],
+  "author": "England",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.5"
+  }
+}
